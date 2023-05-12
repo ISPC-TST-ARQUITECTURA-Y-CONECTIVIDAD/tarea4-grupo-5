@@ -1,0 +1,22 @@
+{
+  "cliente": {
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "direccion": "Calle 10 # 25-35",
+    "telefono": "555-5555"
+  },
+  "pedido": {
+    "tipo": "Pizza",
+    "tamano": "Mediana",
+    "sabor": "Pepperoni",
+    "adiciones": [
+      "Extra queso",
+      "Champiñones"
+    ],
+    "instrucciones": "Sin cebolla, por favor."
+  },
+  "pago": {
+    "metodo": "Tarjeta de crédito",
+    "monto": 25000
+  }
+}
