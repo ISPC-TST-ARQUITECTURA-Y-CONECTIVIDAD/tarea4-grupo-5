@@ -14,9 +14,12 @@ En este proyecto se desarrollarán las prácticas correspondientes al Módulo II
 ### Fecha de presentación: 15/05/23.
 ## Cuestionario 
 1)¿Qué es una Comunicación REST?, ¿Para qué se usan? Ejemplifique.
+
 2)¿Qué es un Formato de datos JASON?, ¿Para qué se usan? Ejemplifique
+
 3)Implementar un pequeño código JASON, donde un cliente solicita una
 pizza.
+
 4)Implementar un código JASON, para comunicar un sensor de temperatura
 y humedad con un Arduino Uno, siímulando los mismos en Proteus.
 ¿Cuáles serían los campos mínimos para hacer la implementación?
